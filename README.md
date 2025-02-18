@@ -2,7 +2,7 @@
 
 ![2024-10-18-000536_hyprshot](https://github.com/user-attachments/assets/d47d78e7-5ddd-4637-83d4-6a8a7be2e0ce)
 
-Hyprchroma is a Hyprland plugin that applies a chromakey effect for global window background transparency without affecting readability
+Hyprchroma is a Hyprland plugin that applies a chromakey effect for global window background transparency without affecting readability...and this is LX2023's fork, the one that will (hopefully!) be available for the newest hyprland :/
 
 ## Configuration
 ```conf
@@ -42,11 +42,11 @@ outputs = {
 ### Hyprland >= v0.34.0
 Install using `hyprpm`
 ```sh
-hyprpm add https://github.com/alexhulbert/Hyprchroma
+hyprpm add https://github.com/LX-WR/Hyprchroma
 hyprpm enable hyprchroma
 hyprpm reload
 ```
 
 ### Nix
 
-For nix instructions, refer to the parent repository.
+For nix instructions, refer to the ***parent's parent*** repository.
